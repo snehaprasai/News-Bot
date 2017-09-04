@@ -1,0 +1,41 @@
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Bot Application.dll.config
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Bot Application.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Bot Application.pdb
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Autofac.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Chronic.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Newtonsoft.Json.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\System.Net.Http.Formatting.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\System.Web.Http.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\System.Web.Http.WebHost.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Autofac.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\Newtonsoft.Json.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\System.Net.Http.Formatting.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\System.Web.Http.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\System.Web.Http.WebHost.xml
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\obj\Debug\NewsBot.csprojResolveAssemblyReference.cache
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\obj\Debug\NewsBot.csproj.CoreCompileInputs.cache
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\obj\Debug\Bot Application.dll
+C:\Users\apuss\Documents\Visual Studio 2017\Projects\NewsBot\NewsBot\obj\Debug\Bot Application.pdb
